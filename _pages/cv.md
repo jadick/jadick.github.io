@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /file/CV_JoaoDick.pdf
+permalink: /files/CV_JoaoDick.pdf
 author_profile: true
 redirect_from:
   - /resume
