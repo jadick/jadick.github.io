@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "MASc Student in Machine Learning"
   location         : "Toronto, ON - CA."
-  employer         :
+  employer         : "University of Toronto"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ca/citations?user=0CLKCVUAAAAJ&hl"
-  email            :
+  email            : "joao.dick@mail.utoronto.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "joaoatzdick"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
