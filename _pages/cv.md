@@ -1,20 +1,21 @@
 ---
 layout: archive
 title: "CV"
-permalink: /files/CV_JoaoDick.pdf
+permalink: /cv
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
+Complete pdf version available [here](https://jadick.github.io/files/CV_JoaoDick.pdf).
 
 Education
 ======
-* B.S. in Computer Engineering, Federal University of Rio Grande do Sul (UFRGS), 2022
 * MASc in ECE, University of Toronto, 2025 (expected)
+* B.S. in Computer Engineering, Federal University of Rio Grande do Sul (UFRGS), 2022
 
-Work experience
+Experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -26,33 +27,3 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
