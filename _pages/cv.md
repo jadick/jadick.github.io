@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "[CV](https://jadick.github.io/files/CV_JoaoDick.pdf)"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Complete pdf version available [here](https://jadick.github.io/files/CV_JoaoDick.pdf).
+[cv.pdf](https://jadick.github.io/files/CV_JoaoDick.pdf).
 
 
 
