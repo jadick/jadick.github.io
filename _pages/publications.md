@@ -5,11 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my papers on my [google scholar](https://scholar.google.ca/citations?user=0CLKCVUAAAAJ&hl=en).
+My publications can be found in my [google scholar](https://scholar.google.ca/citations?user=0CLKCVUAAAAJ&hl=en).
 
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
