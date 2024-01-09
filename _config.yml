@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "João Atz Dick"
+title                    : "João's Homepage"
 title_separator          : "-"
-name                     : &name "João"
-description              : &description "personal description"
+name                     : &name "João Atz Dick"
+description              : &description "MASc Student"
 url                      : https://jadick.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "jadick/jadick.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "João"
+  name             : "João Atz Dick"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Toronto"
+  bio              : "MASc Student in Machine Learning"
+  location         : "Toronto, ON - CA."
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ca/citations?user=0CLKCVUAAAAJ&hl"
