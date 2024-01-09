@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[cv.pdf](https://jadick.github.io/files/CV_JoaoDick.pdf).
+[cv.pdf](https://jadick.github.io/files/CV_JoaoDick.pdf)
 
 
 

@@ -9,11 +9,11 @@ redirect_from:
 ---
 I am a MASc student at the [University of Toronto](https://www.ece.utoronto.ca/) working on parameter-efficient fine-tuning and neural compression. I'm advised by Prof. [Ashish Khisti](https://www.comm.utoronto.ca/~akhisti/).
 
-I hold a B.Sc. in Computer Engineering from the Federal University of Rio Grande do Sul (UFRGS). During my undergraduate years, I worked on several research projects in academia and industry, addressing neural compression, generative modelling, computer vision, and integrated circuits design.
+I hold a B.Sc. in Computer Engineering from the [Federal University of Rio Grande do Sul](http://www.ufrgs.br/english/home). During my undergraduate years, I worked on several research projects in academia and industry, addressing neural compression, generative modelling, computer vision, and integrated circuits design.
 
 Before starting my master's at UofT, I worked as a Machine Learning Engineer at the fashion tech [Colecao.moda](https://www.colecao.moda/). My work was focused on text-to-image diffusion models.
 
-I'm originally from Porto Alegre, a distant and warmer place in the southmost Brazilian state of Rio Grande do Sul.
+I'm originally from Porto Alegre, the capital of the southmost Brazilian state Rio Grande do Sul.
 
 Research Interests
 ======
