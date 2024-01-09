@@ -13,8 +13,6 @@ I hold a B.Sc. in Computer Engineering from the Federal University of Rio Grande
 
 Before starting my master's at UofT, I worked as a Machine Learning Engineer at the Fashion Tech [Colecao.moda](https://www.colecao.moda/). My work was focused on text-to-image diffusion models.
 
-A more detailed view on my background is available in my [Curriculum Vitae](https://jadick.github.io/files/CV_JoaoDick.pdf).
-
 I'm originally from Porto Alegre, a distant and warmer place in the southmost Brazilian state of Rio Grande do Sul.
 
 Research Interests
