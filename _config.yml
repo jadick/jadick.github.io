@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "João Atz Dick"
-  avatar           : "profile.png"
+  avatar           : "avatar.png"
   bio              : "MASc Student in Machine Learning"
   location         : "Toronto, ON - CA."
   employer         : "University of Toronto"
