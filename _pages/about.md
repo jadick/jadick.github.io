@@ -14,8 +14,3 @@ I hold a B.Sc. in Computer Engineering from the [Federal University of Rio Grand
 Before starting my master's at UofT, I worked as a Machine Learning Engineer at the fashion tech [Colecao.moda](https://www.colecao.moda/). My work was focused on text-to-image diffusion models.
 
 I'm originally from Porto Alegre, the capital of the southmost Brazilian state Rio Grande do Sul.
-
-Research Interests
-======
-TBD
-
