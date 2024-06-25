@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a MASc student at the [University of Toronto](https://www.ece.utoronto.ca/) working on parameter-efficient fine-tuning and neural compression. I'm advised by Prof. [Ashish Khisti](https://www.comm.utoronto.ca/~akhisti/).
+I am a MASc student at the [University of Toronto](https://www.ece.utoronto.ca/) working on AI and Information Theory. I'm advised by Prof. [Ashish Khisti](https://www.comm.utoronto.ca/~akhisti/).
 
 I hold a B.Sc. in Computer Engineering from the [Federal University of Rio Grande do Sul](http://www.ufrgs.br/english/home). During my undergraduate years, I worked on several research projects in academia and industry, addressing neural compression, generative modeling, computer vision, and integrated circuit design.
 
