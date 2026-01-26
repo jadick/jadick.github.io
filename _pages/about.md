@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an ECE PhD student at the [NYU Tandon School of Engineering](https://engineering.nyu.edu/), where I'm advised by [Prof. Jona Ballé](https://balle.io/) and work in representation learning and visual perception.
+I am a PhD student at [NYU Tandon](https://engineering.nyu.edu/). Advised by [Prof. Jona Ballé](https://balle.io/), I work in topics spanning representation learning and visual perception.
 
 I was previously a MASc student at the [University of Toronto](https://www.ece.utoronto.ca/) and the [Vector Institute for AI](https://vectorinstitute.ai/). During this time, I've worked at the intersection of AI and Information Theory, focusing on perception-aware learned video compression and LLM steganography.
 
